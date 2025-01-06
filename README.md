@@ -1,27 +1,20 @@
-# Riku bot docs  
-Aesthetic Discord bot with advanced features for your server!  
+# Riku Bot - Dokumentace  
+Vítejte u oficiální dokumentace Riku Bota! 🍪  
 
-## 🛠️ Features  
-- Cute currency system  
-- Cat themed aesthetics  
-- Customizable commands  
+Riku je estetický Discord bot, který přináší:  
+- 🎨 **Krásný design** s pekárenským tématem.  
+- 💰 **Serverovou měnu** pro zábavu členů.  
+- ⚙️ **Možnost úprav** příkazů a nastavení.  
 
-## 📋 Commands  
-| Command       | Description                   | Example Usage         |  
-|---------------|-------------------------------|-----------------------|  
-| `/help`       | Displays help menu           | `/help`               |  
-| `/shop`       | Opens the bakery shop        | `/shop`               |  
-| `/balance`    | Shows your current balance   | `/balance`            |  
+## 📚 Struktura dokumentace  
+- [Úvod](index.md)  
+- [Příkazy](commands.md)  
+- [Dashboard](dashboard.md)  
 
-## 🌟 Getting Started  
-1. **Invite the bot** using this [link](https://discord.com/oauth2/authorize?client_id=YOUR_CLIENT_ID&permissions=BOT_PERMISSIONS&scope=bot).  
-2. **Join our community server**: [Timmyy Support](https://discord.gg/vFzPeBCrtg).  
-3. **Configure your server** via the dashboard: [Dashboard](https://dashboard.timmyybot.com).  
+## 🌟 Začněte hned  
+1. Pozvěte bota na váš server: [Invite Riku](https://discord.com/oauth2/authorize?client_id=YOUR_CLIENT_ID).  
+2. Připojte se k našemu support serveru: [Support Server](https://discord.gg/vFzPeBCrtg).  
+3. Konfigurujte nastavení na [dashboardu](https://dashboard.rikubot.com).  
 
-## ⚙️ Dashboard Guide  
-1. Log in with your Discord account.  
-2. Customize bot settings for your server.  
-3. Enjoy the bakery vibes!  
-
-## 💖 Support  
-Need help? Join our support server: [Support Server](https://discord.gg/vFzPeBCrtg).  
+## 💖 Podpora  
+Pokud narazíte na problém, kontaktujte nás na [Discordu](https://discord.gg/vFzPeBCrtg).  
